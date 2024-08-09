@@ -1,0 +1,19 @@
+.Icecream\ PDF\ Editor/
+.VirtualBox/
+.bash_history
+.cache/
+.config/
+.docker/
+.vagrant.d/
+.vscode/
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+VirtualBox\ VMs/
+node_modules/
+*.log
+*.dat
